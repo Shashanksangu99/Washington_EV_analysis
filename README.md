@@ -19,6 +19,8 @@ Key analyses include EV counts by county, electric range per make, and utility p
 
 Created interactive dashboards to visualize trends in EV adoption, geographic distribution, and more.
 
+**Check out the dashboard here:** **https://public.tableau.com/views/Book1_17254985898730/WashingtonStateEVAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
+
 Key charts include line charts, bar charts, maps, and bubble charts.
 
 ## Key Features 🌟
